@@ -35,6 +35,7 @@ canvas {
     background: var(--canvas-bg);
     border: 2px solid var(--border-color);
     transition: background 0.3s, border-color 0.3s;
+    border-radius: 8px;
 }
 
 .controls {
